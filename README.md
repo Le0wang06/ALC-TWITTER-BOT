@@ -6,3 +6,5 @@
 - **Analyze Details:** Extracts diversed profile info like name, bio, and location.
 - **Predict Gender:** Utilizes sophisticated methods to predict users' genders.
 - **Display Results:** Reveals the predicted gender for each user, ready for your interpretation.
+
+
